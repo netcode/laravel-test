@@ -396,7 +396,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
-                "MIT"
+                "MIT" 
             ],
             "authors": [
                 {
